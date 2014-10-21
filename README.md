@@ -51,12 +51,17 @@ I would propose the following curriculum:
    b. **Acquire field methods**: Create a contingency graph of the
    [Houston](http://houstonfutures.org/courses.html)
    [curriculum](http://www.uh.edu/technology/programs/graduate/foresight/),
-   Wendell Bell's book, and Richard Slaughter's book. Choose an initial learning
+   Wendell Bell's book, Richard Slaughter's book, The Good Judgment Project, and
+   prediction market sites (e.g. InTrade and
+   [Marketocracy](http://www.marketocracy.com/)). Choose an initial learning
    path through the graph to acquire 3 methods (either off-the-shelf or modified
    for personal use), and use them for making another 20 bets in the prediction
      market.
    c. **Bombard self with ideas**: Read 10 articles on [Hawaii Futures Publications
-   list](http://www.futures.hawaii.edu/publications.html), subscribe to 3 blogs
-   of the notable futurists selected in 3a, and read 1 book.
+   list](http://www.futures.hawaii.edu/publications.html) or
+   [Technovelgy](http://www.technovelgy.com/), subscribe to 3 blogs
+   of the notable futurists selected in 3a, and read 1 book (e.g. of the
+   Edge.org type or [Theory of
+   Everything](http://www.amazon.com/Theory-Everything-Integral-Business-Spirituality/dp/1570628556) type).
    From these new ideas, derive another 20 bets.
    d. Repeat 3b and 3c for an increasing number of methods and ideas.
