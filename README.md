@@ -42,7 +42,7 @@ I would propose the following curriculum:
 3. After making the initial bets, begin the learning phase of mixing my thought
    processes and knowledge with that of successful futurists:
 
-   a. **Acquire field vocabluary**: Choose a list of 30 futurists to study based
+   a. **Acquire field vocabluary**: Choose a list of 20 futurists to study based
    on mentions of notability (see
    [Quora](http://www.quora.com/Who-are-the-best-living-futurists),
    [HowStuffWorks](http://electronics.howstuffworks.com/future-tech/10-groundbreaking-futurists.htm#page=10),
@@ -52,7 +52,7 @@ I would propose the following curriculum:
 
    b. **Acquire field methods**: Create a contingency graph of the
    [Houston](http://houstonfutures.org/courses.html)
-   [curriculum](http://www.uh.edu/technology/programs/graduate/foresight/),
+   [curriculum](http://www.uh.edu/technology/programs/graduate/foresight/) (see "Breakdown" below),
    Wendell Bell's book, Richard Slaughter's book, The Good Judgment Project, and
    prediction market sites (e.g. InTrade and
    [Marketocracy](http://www.marketocracy.com/)). Choose an initial learning
@@ -69,3 +69,25 @@ I would propose the following curriculum:
    From these new ideas, derive another 20 bets.
 
    d. Repeat 3b and 3c for an increasing number of methods and ideas.
+
+### A Breakdown of the Houston Curriculum
+
+- Overview
+  - http://houstonfutures.org/courses.html
+  - http://www.uh.edu/technology/programs/graduate/foresight/
+  - Intro: http://houstonfutures.org/OurProgram/Courses/Syllabi/Intro%20Schedule%20Fall%202014.pdf
+  - http://www.futures.hawaii.edu/publications.html
+- Specific courses:
+  - Systems Thinking: http://houstonfutures.org/OurProgram/Courses/Syllabi/systems%20Syllabus%2014.pdf and http://houstonfutures.org/OurProgram/Courses/Syllabi/Systems%20Thinking%20Schedule%2014.pdf
+  - Peg me with new ideas and theses:
+    - Alternative Futures: http://houstonfutures.org/OurProgram/Courses/Syllabi/Alternative%20Perspectives%20Syllabus%20Fall%202014.pdf and http://houstonfutures.org/OurProgram/Courses/Syllabi/Alternative%20Perspectives%20Schedule%20Fall%202014.pdf
+    - Social Change: http://houstonfutures.org/OurProgram/Courses/Syllabi/SocialChangeSyl2012.pdf
+  - Methodologies:
+    - http://houstonfutures.org/OurProgram/Courses/Syllabi/FutResearchSyl2012.pdf and http://houstonfutures.org/OurProgram/Courses/Syllabi/FutResearchSch2012.pdf
+    - http://houstonfutures.org/OurProgram/Courses/Syllabi/StatSyl14.pdf
+  - Specific areas:
+    - Consumer spending: http://houstonfutures.org/OurProgram/Courses/Syllabi/Advanced%20Strategies%20Syllabus%202014.pdf
+    - Biotech: http://houstonfutures.org/OurProgram/Courses/Syllabi/Biotechnology.pdf
+    - Climate Change: http://houstonfutures.org/OurProgram/Courses/Syllabi/Climate%20Change.pdf
+    - Tech: http://houstonfutures.org/OurProgram/Courses/Syllabi/Technology%20Forecasting.pdf
+    - Hawaii, all topics: http://www.futures.hawaii.edu/publications.html
