@@ -41,6 +41,7 @@ I would propose the following curriculum:
    high returns`.)
 3. After making the initial bets, begin the learning phase of mixing my thought
    processes and knowledge with that of successful futurists:
+
    a. **Acquire field vocabluary**: Choose a list of 30 futurists to study based
    on mentions of notability (see
    [Quora](http://www.quora.com/Who-are-the-best-living-futurists),
@@ -48,6 +49,7 @@ I would propose the following curriculum:
    and [Wikipedia](http://en.wikipedia.org/wiki/List_of_futurologists)),
    affiliated institutions and customers, and diversity of fields and ideas.
    Determine the main bets and methods of each of these futurists.
+
    b. **Acquire field methods**: Create a contingency graph of the
    [Houston](http://houstonfutures.org/courses.html)
    [curriculum](http://www.uh.edu/technology/programs/graduate/foresight/),
@@ -57,6 +59,7 @@ I would propose the following curriculum:
    path through the graph to acquire 3 methods (either off-the-shelf or modified
    for personal use), and use them for making another 20 bets in the prediction
      market.
+
    c. **Bombard self with ideas**: Read 10 articles on [Hawaii Futures Publications
    list](http://www.futures.hawaii.edu/publications.html) or
    [Technovelgy](http://www.technovelgy.com/), subscribe to 3 blogs
@@ -64,4 +67,5 @@ I would propose the following curriculum:
    Edge.org type or [Theory of
    Everything](http://www.amazon.com/Theory-Everything-Integral-Business-Spirituality/dp/1570628556) type).
    From these new ideas, derive another 20 bets.
+
    d. Repeat 3b and 3c for an increasing number of methods and ideas.
