@@ -38,7 +38,8 @@ I would propose the following curriculum:
    W`. (If I am just interested in tech investing, I might choose my bets to be
    relevant to that, such that the second type of bet will always look like `If
    I invest in X1, ..., Xn, then given scenarios Y1, ..., Yn, I would achieve
-   high returns`.)
+   high returns`.) See [here](https://workflowy.com/s/lVNwzkgPTt) for my
+   progress in this area.
 3. After making the initial bets, begin the learning phase of mixing my thought
    processes and knowledge with that of successful futurists:
 
@@ -55,7 +56,7 @@ I would propose the following curriculum:
    [curriculum](http://www.uh.edu/technology/programs/graduate/foresight/) (see "Breakdown" below),
    Wendell Bell's book, Richard Slaughter's book, The Good Judgment Project, and
    prediction market sites (e.g. InTrade and
-   [Marketocracy](http://www.marketocracy.com/)). Choose an initial learning
+   [Marketocracy](http://www.marketocracy.com/), Hamming). Choose an initial learning
    path through the graph to acquire 3 methods (either off-the-shelf or modified
    for personal use), and use them for making another 20 bets in the prediction
      market.
